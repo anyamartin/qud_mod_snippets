@@ -1,0 +1,7 @@
+{
+  "WorkshopId": 2824625836,
+  "Title": "Choose Chimeric Limb Subtype",
+  "Description": "While the general class of limb (head, legs, etc.) is still randomly determined, the player will be prompted to select a specific limb under that category. This is primarily for flavor, although the different subtypes do have different materials (flesh, plant matter, bone), which could become relevant in the future.",
+  "Tags": "",
+  "Visibility": "2"
+}
